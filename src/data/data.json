@@ -1,0 +1,14 @@
+{
+    "founderMessage": "Welcome to our Psychiatry Website. Our goal is to provide the best mental health services to our patients.",
+    "services": [
+      "Cognitive Behavioral Therapy (CBT)",
+      "Group Therapy",
+      "Medication Management",
+      "Psychiatric Evaluation"
+    ],
+    "testimonials": [
+      { "message": "Excellent service and compassionate care.", "author": "John Doe" },
+      { "message": "I felt heard and understood for the first time.", "author": "Jane Smith" }
+    ]
+  }
+  

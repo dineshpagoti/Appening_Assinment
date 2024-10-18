@@ -1,0 +1,12 @@
+.states-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .states-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+  }
+  

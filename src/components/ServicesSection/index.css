@@ -1,0 +1,23 @@
+.services-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .service-item {
+    background-color: #3498db; /* Card color */
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    transition: transform 0.3s;
+  }
+  
+  .service-item:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+  }
+  
