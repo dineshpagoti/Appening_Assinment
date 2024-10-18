@@ -8,7 +8,7 @@ import StepsSection from './components/StepsSection';
 import StatesSection from './components/StatesSection';
 import FAQSection from './components/FAQSection';
 import Footer from './components/Footer';
-import './App.css'; // You can add global styles here
+import './App.css'; 
 
 const App = () => {
   return (

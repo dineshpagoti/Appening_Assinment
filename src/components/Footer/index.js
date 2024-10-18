@@ -6,9 +6,9 @@ const Footer = () => {
     <footer className="footer">
       <p>&copy; 2024 Psychiatry. All rights reserved.</p>
       <div className="social-links">
-        <a href="#">Facebook</a>
-        <a href="#">Twitter</a>
-        <a href="#">Instagram</a>
+        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
+        <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
       </div>
     </footer>
   );
